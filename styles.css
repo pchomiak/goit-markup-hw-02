@@ -10,7 +10,8 @@ line-height: 1.17;}
 .agency, .portfolio {color: #2196F3;}
 h1 {font-size: 60px;
 font-weight: 900;
-line-height: 1.36;}
+line-height: 1.36;
+color: #FFFFFF;}
 section>h2 {font-size: 36px;
 font-weight: bold;
 line-height: 1.17;} 
@@ -35,7 +36,6 @@ color: #FFFFFF;}
 span {color: #2196F3;}
 button {cursor: pointer;}
 a {text-decoration: none;}
-footer {background-color: #2F303A;}
-.main-sign {background-color: #2F303A}
+footer, .main-sign {background-color: #2F303A;}
 .hero {background-color: #E5E5E5;}
 .ourteam {background-color: #F5F4FA;}
